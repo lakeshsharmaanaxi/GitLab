@@ -1,6 +1,6 @@
 # 🌟 Markdown Full Example
 
-![Markdown Logo](https://via.placeholder.com/150 "Markdown Logo")
+![Markdown Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMarkdown-mark.svg&psig=AOvVaw0phKl4GCQhHMBqIJMtHBMq&ust=1747994004286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCfjaDnto0DFQAAAAAdAAAAABAE "Markdown Logo")
 
 > 📌 A complete Markdown example demonstrating **all features** in one file.
 
@@ -23,7 +23,6 @@
 <a href="https://www.google.com" target="_blank" style="text-decoration:none;">
   <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png" alt="Google" style="border:0; height:40px;">
 </a>
----
 
 ## ✅ Features
 ✔️ Headings (`#`)  
