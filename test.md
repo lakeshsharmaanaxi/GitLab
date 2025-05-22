@@ -20,7 +20,9 @@
 - [🖥️ Inline Code](#️-inline-code)
 - [🌐 API Reference](#-api-reference)
 - [📝 License](#-license)
-
+<a href="https://www.google.com" target="_blank" style="text-decoration:none;">
+  <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png" alt="Google" style="border:0; height:40px;">
+</a>
 ---
 
 ## ✅ Features
