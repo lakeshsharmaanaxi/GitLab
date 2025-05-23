@@ -1,0 +1,3 @@
+[submodule "libs/somelib"]
+	path = libs/somelib
+	url = https://github.com/lakeshsharmaanaxi/GitLab.git
